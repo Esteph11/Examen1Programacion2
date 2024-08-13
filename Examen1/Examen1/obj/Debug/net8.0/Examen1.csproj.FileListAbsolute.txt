@@ -1,0 +1,15 @@
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\bin\Debug\net8.0\Examen1.exe
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\bin\Debug\net8.0\Examen1.deps.json
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\bin\Debug\net8.0\Examen1.runtimeconfig.json
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\bin\Debug\net8.0\Examen1.dll
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\bin\Debug\net8.0\Examen1.pdb
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.AssemblyInfo.cs
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.sourcelink.json
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.dll
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\refint\Examen1.dll
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.pdb
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\Examen1.genruntimeconfig.cache
+C:\Users\curacao\Documents\Estudio\Project\Examen1Programacion2\Examen1\Examen1\obj\Debug\net8.0\ref\Examen1.dll

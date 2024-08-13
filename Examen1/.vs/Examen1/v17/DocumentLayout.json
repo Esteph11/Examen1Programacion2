@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|c:\\users\\curacao\\documents\\estudio\\project\\examen1programacion2\\examen1\\examen1\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|solutionrelative:examen1\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|c:\\users\\curacao\\documents\\estudio\\project\\examen1programacion2\\examen1\\examen1\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|solutionrelative:examen1\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|c:\\users\\curacao\\documents\\estudio\\project\\examen1programacion2\\examen1\\examen1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|solutionrelative:examen1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|c:\\users\\curacao\\documents\\estudio\\project\\examen1programacion2\\examen1\\examen1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C54DA9F7-DD07-4051-AFA2-E5DED3C6F09F}|Examen1\\Examen1.csproj|solutionrelative:examen1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Examen1\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\Asignatura.cs",
+              "RelativeToolTip": "Examen1\\Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:28:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAsignatura.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\IAsignatura.cs",
+              "RelativeDocumentMoniker": "Examen1\\IAsignatura.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\IAsignatura.cs",
+              "RelativeToolTip": "Examen1\\IAsignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:26:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\Alumno.cs",
+              "RelativeDocumentMoniker": "Examen1\\Alumno.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\Alumno.cs",
+              "RelativeToolTip": "Examen1\\Alumno.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:17:26.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\Program.cs",
               "RelativeDocumentMoniker": "Examen1\\Program.cs",
               "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen1Programacion2\\Examen1\\Examen1\\Program.cs",
               "RelativeToolTip": "Examen1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T01:57:24.667Z",
               "EditorCaption": ""
