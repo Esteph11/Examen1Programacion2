@@ -9,5 +9,7 @@ namespace Examen1
         
         public string MensajeNotaFinal(double notaFinal);
 
+        public void Imprimir();
+
     }
 }
